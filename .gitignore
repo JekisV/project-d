@@ -1,0 +1,10 @@
+.idea/*
+.idea*
+key.json
+.git
+user.txt
+.terraform/*
+.terra*
+key_k8s.json
+key_ci_cd.json
+.dockerconfigjson
