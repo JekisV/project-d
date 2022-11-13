@@ -12,8 +12,8 @@ terraform {
     bucket     = "netol0gy-tfstate"
     region     = "ru-central1-a"
     key        = "terraform.tfstate"
-    access_key = "YCAJEkmcXVubnmOyG1ZX3h5Zi"
-    secret_key = "YCOhts_hN1UrrV0tUWpOqkbCrK_iCo8gqKDf3grf"
+    access_key = ""
+    secret_key = ""
 
     skip_region_validation      = true
     skip_credentials_validation = true
